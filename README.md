@@ -1,2 +1,10 @@
-# study
-Computer Science
+# 취준을 위한 공부 자료 정리 허브
+
+## 기존 네이버 블로그
+[헬리코박도 프로젝트](https://blog.naver.com/ujb0411)
+
+## 기술면접 관련 글 링크
+[기술면접 관련 글 링크 모음] (https://velog.io/@yangju0411/기술면접-관련-글-링크지속-업뎃)
+
+## 운영체제
+[운영체제 시험 문제지 모음](https://velog.io/@yangju0411/운영체제-시험-문제지-모음)
